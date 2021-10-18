@@ -1,0 +1,3 @@
+ein kleines textprogramm 
+basisfunktionen von git ausprobieren
+
